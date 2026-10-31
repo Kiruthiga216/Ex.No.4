@@ -419,7 +419,7 @@ For a fair comparison, submit the same prompt and scenario to each tool, use equ
 
 ## Prompt Used to Get the Answer
 
-`` 
+```
 
 Act as an expert in Prompt Engineering and prepare a detailed 
 
